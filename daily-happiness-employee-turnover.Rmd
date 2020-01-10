@@ -1,5 +1,5 @@
 ---
-title: "daily-happiness-employee-turnover"
+title: "Daily Happiness & Employee Turnover"
 author: "LC"
 date: "*10 janvier 2020*"
 output: 
@@ -8,7 +8,7 @@ output:
         theme: united
 ---
 
-# Daily Happiness & Employee Turnover {.tabset}
+# {.tabset}
 
 ```{r echo = FALSE}
 knitr::opts_chunk$set(echo = FALSE) #set echo = FALSE for every chunk
